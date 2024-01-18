@@ -14,7 +14,6 @@ Cada equipe será responsável por desenvolver uma parte do sistema ANDROMEDA, u
 
 ### As Linguagens Estelares
 
-- **JavaScript**: O ponto de partida, onde a viagem começa.
 - **Clojure**: A magia do LISP no universo JVM.
 - **Elixir**: Onde a concorrência encontra a elegância.
 - **Scala**: A fusão perfeita entre funcional e orientado a objetos.
