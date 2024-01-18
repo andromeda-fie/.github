@@ -1,4 +1,4 @@
-# Bem-vindos à Expedição ANDROMEDA - A Aventura Intergaláctica de Programação Funcional!
+# Boas vindas à Expedição ANDROMEDA - A Aventura Intergaláctica de Programação Funcional!
 
 ## 🚀 A Missão
 
