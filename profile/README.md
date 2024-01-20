@@ -24,9 +24,9 @@ Cada equipe será responsável por desenvolver uma parte do sistema ANDROMEDA, u
 
 Cada repositório será um serviço único que irá contribuir pro sistema da FIE. Com gerenciamento de pilotos e naves, e até mesmo sistemas complexos de navegação e contratos, vocês enfrentarão desafios espaciais inéditos. Preparem-se para abastecer suas naves, calcular rotas e transações interplanetárias, e muito mais!
 
-#### Serviço de cadastro de novos Pilotos (Haskell) - "Astrolog"
+#### Serviço de cadastro de novos Pilotos (OCaml) - "Astrolog"
 
-Gerencie o cadastro dos bravos pilotos espaciais. Validação de certificações, registro de informações pessoais e acompanhamento de suas jornadas interplanetárias. Tudo isso com a elegância e pureza do Haskell.
+Gerencie o cadastro dos bravos pilotos espaciais. Validação de certificações, registro de informações pessoais e acompanhamento de suas jornadas interplanetárias.
 
 > Descubra mais sobre o serviço em [astrolog](https://github.com/andromeda-fie/astrolog)
 
@@ -42,9 +42,9 @@ Responsável por administrar os contratos de transporte espacial. Da publicaçã
 
 > Descubra mais sobre o serviço em [contraktor](https://github.com/andromeda-fie/contraktor)
 
-#### Serviço de Navegação entre planetas (OCaml) - "Pathfinder"
+#### Serviço de Navegação entre planetas (Haskell) - "Pathfinder"
 
-Otimização de rotas e cálculo de trajetórias entre os planetas de Andrômeda. Explore as capacidades de OCaml para garantir viagens eficientes e seguras no espaço sideral.
+Otimização de rotas e cálculo de trajetórias entre os planetas de Andrômeda.
 
 > Descubra mais sobre o serviço em [pathfinder](https://github.com/andromeda-fie/pathfinder)
 
