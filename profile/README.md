@@ -24,7 +24,7 @@ Cada equipe será responsável por desenvolver uma parte do sistema ANDROMEDA, u
 
 Cada repositório será um serviço único que irá contribuir pro sistema da FIE. Com gerenciamento de pilotos e naves, e até mesmo sistemas complexos de navegação e contratos, vocês enfrentarão desafios espaciais inéditos. Preparem-se para abastecer suas naves, calcular rotas e transações interplanetárias, e muito mais!
 
-#### Serviço de cadastro de novos Pilotos (OCaml) - "Astrolog"
+#### Serviço de cadastro de novos Pilotos (JavaScript) - "Astrolog"
 
 Gerencie o cadastro dos bravos pilotos espaciais. Validação de certificações, registro de informações pessoais e acompanhamento de suas jornadas interplanetárias.
 
@@ -36,13 +36,13 @@ Um mercado dinâmico para a compra e venda de naves espaciais. Acompanhe as tran
 
 > Descubra mais sobre o serviço em [startrade](https://github.com/andromeda-fie/startrade)
 
-#### Serviço de gerenciamento de Contratos (Rust) - "Contraktor"
+#### Serviço de gerenciamento de Contratos (Elixir) - "Contraktor"
 
 Responsável por administrar os contratos de transporte espacial. Da publicação à aceitação de contratos, tudo sob o manto da segurança e performance que só o Rust pode oferecer.
 
 > Descubra mais sobre o serviço em [contraktor](https://github.com/andromeda-fie/contraktor)
 
-#### Serviço de Navegação entre planetas (Haskell) - "Pathfinder"
+#### Serviço de Navegação entre planetas (Python) - "Pathfinder"
 
 Otimização de rotas e cálculo de trajetórias entre os planetas de Andrômeda.
 
