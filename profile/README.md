@@ -59,7 +59,7 @@ O plano de estudo assim como descrições mais detalhadas de cada serviço e sua
 
 ## 🛸 Contato Galáctico
 
-Federação Intergaláctica Ecma (FIE) - [zoey.spessanha@zeetech.io](mailto: zoey.spessanha@zeetech.io) ou [annabell@uenf.br](mailto: annabell@uenf.br)
+Federação Intergaláctica Ecma (FIE) - zoey.spessanha@zeetech.io ou annabell@uenf.br
 
 ---
 
