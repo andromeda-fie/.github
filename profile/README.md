@@ -16,9 +16,9 @@ Cada equipe será responsável por desenvolver uma parte do sistema ANDROMEDA, u
 
 - **Clojure**: A magia do LISP no universo JVM.
 - **Elixir**: Onde a concorrência encontra a elegância.
-- **OCaml**: A expressividade e a eficiência de mãos dadas.
-- **Rust**: Segurança e performance no pilotar de naves.
-- **Haskell**: A pureza funcional no controle de sua nave espacial.
+- **Javascript**: A flexibilidade incomparável.
+- **Python**: Sintaxe simples e facilidade na manipulação de dados.
+- **Go**: A simplicidade e clareza do código imperativo, porém com foco em funcional.
 
 ### A Jornada
 
@@ -30,19 +30,19 @@ Gerencie o cadastro dos bravos pilotos espaciais. Validação de certificações
 
 > Descubra mais sobre o serviço em [astrolog](https://github.com/andromeda-fie/astrolog)
 
-#### Serviço de cadastro e mercado de Naves (Elixir) - "Startrade"
+#### Serviço de cadastro e mercado de Naves (Python) - "Startrade"
 
-Um mercado dinâmico para a compra e venda de naves espaciais. Acompanhe as transações, gerencie as listagens e mantenha o registro de todas as naves, utilizando a concorrência elegante e robusta do Elixir.
+Um mercado dinâmico para a compra e venda de naves espaciais. Acompanhe as transações, gerencie as listagens e mantenha o registro de todas as naves.
 
 > Descubra mais sobre o serviço em [startrade](https://github.com/andromeda-fie/startrade)
 
 #### Serviço de gerenciamento de Contratos (Elixir) - "Contraktor"
 
-Responsável por administrar os contratos de transporte espacial. Da publicação à aceitação de contratos, tudo sob o manto da segurança e performance que só o Rust pode oferecer.
+Responsável por administrar os contratos de transporte espacial. Da publicação à aceitação de contratos, tudo sob o manto da segurança e performance.
 
 > Descubra mais sobre o serviço em [contraktor](https://github.com/andromeda-fie/contraktor)
 
-#### Serviço de Navegação entre planetas (Python) - "Pathfinder"
+#### Serviço de Navegação entre planetas (F#) - "Pathfinder"
 
 Otimização de rotas e cálculo de trajetórias entre os planetas de Andrômeda.
 
@@ -50,7 +50,7 @@ Otimização de rotas e cálculo de trajetórias entre os planetas de Andrômeda
 
 #### Serviço de Emissão de relatórios para FIE (Clojure) - "Nebulalytics"
 
-Relatórios detalhados e análises profundas sobre insumos transportados, eficiência de pilotos e a saúde financeira da Federação. Tudo isso em Clojure, combinando a magia do LISP com o poder do JVM.
+Relatórios detalhados e análises profundas sobre insumos transportados, eficiência de pilotos e a saúde financeira da Federação.
 
 > Descubra mais sobre o serviço em [nebulalytics](https://github.com/andromeda-fie/nebulalytics)
 
