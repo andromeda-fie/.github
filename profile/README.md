@@ -2,7 +2,7 @@
 
 ## 🚀 A Missão
 
-Em uma galáxia não tão distante, a Federação Intergaláctica Ecma (FIE) enfrenta um desafio colossal: gerenciar o transporte de insumos e alimentos entre seis planetas misteriosos na galáxia de Andrômeda. E quem são os heróis dessa história? Vocês, alunos do curso de Introdução à Programação Funcional da Universidade Estadual do Norte Fluminense Darcy Ribeiro!
+Em uma galáxia não tão distante, a Federação Intergaláctica Ecma (FIE) enfrenta um desafio colossal: gerenciar o transporte de insumos e alimentos entre seis planetas misteriosos na galáxia de Andrômeda. E quem são os heróis dessa história? Vocês, estudantes das cadeiras de "Introdução a Programação Funcional" e "Introdução a Programação Web", que são ministradas na UENF (Universidade Estudal do Norte Fluminense Darcy Ribeiro) pela @zoedsoupe e pela @Annabell.
 
 ## 🌌 O Projeto ANDROMEDA
 
@@ -10,15 +10,14 @@ Imagine um universo onde naves deslizam pelo cosmos, pilotos são as estrelas do
 
 ### O Desafio
 
-Cada equipe será responsável por desenvolver uma parte do sistema ANDROMEDA, utilizando uma linguagem de programação funcional diferente. Isso mesmo! Do exótico Clojure ao elegante Haskell, passando pelo robusto OCaml, queridinha Rust e o inovador Elixir, vocês terão a chance de explorar diferentes cantos do universo da programação funcional.
+Cada equipe será responsável por desenvolver uma parte do sistema ANDROMEDA, utilizando uma linguagem de programação funcional diferente. Isso mesmo! Do exótico Clojure ao elegante Elixir, passando pelo misterioso JavaScript e queridinho Python, vocês terão a chance de explorar diferentes cantos do universo da programação funcional.
 
 ### As Linguagens Estelares
 
 - **Clojure**: A magia do LISP no universo JVM.
 - **Elixir**: Onde a concorrência encontra a elegância.
-- **Javascript**: A flexibilidade incomparável.
+- **Javascript**: A flexibilidade incomparável, com foco em imutabilidade e funções de alta ordem.
 - **Python**: Sintaxe simples e facilidade na manipulação de dados.
-- **Go**: A simplicidade e clareza do código imperativo, porém com foco em funcional.
 
 ### A Jornada
 
@@ -42,7 +41,7 @@ Responsável por administrar os contratos de transporte espacial. Da publicaçã
 
 > Descubra mais sobre o serviço em [contraktor](https://github.com/andromeda-fie/contraktor)
 
-#### Serviço de Navegação entre planetas (F#) - "Pathfinder"
+#### Serviço de Navegação entre planetas (Elixir) - "Pathfinder"
 
 Otimização de rotas e cálculo de trajetórias entre os planetas de Andrômeda.
 
@@ -54,20 +53,13 @@ Relatórios detalhados e análises profundas sobre insumos transportados, efici�
 
 > Descubra mais sobre o serviço em [nebulalytics](https://github.com/andromeda-fie/nebulalytics)
 
-## 🌠 Como Contribuir
+## 📚Plano de Estudo
 
-Sintam-se livres para viajar entre os repositórios, contribuir com códigos, ideias e soluções. Façam forks, abram Pull Requests e deixem suas marcas neste universo.
-
-1. Escolha a funcionalidade com qual você deseja contribuir.
-2. Faça um fork do projeto.
-3. Crie uma branch para sua missão (`git checkout -b feature/AmazingFeature`).
-4. Faça commit das suas descobertas (`git commit -m 'Add some AmazingFeature'`).
-5. Faça push para a fronteira final (`git push origin feature/AmazingFeature`).
-6. Abra um Pull Request e aguarde a aprovação da base espacial.
+O plano de estudo assim como descrições mais detalhadas de cada serviço e suas funcionalidades, bem como os materiais usados em sala de aula podem ser encontrados na [página oficial](https://zeetechio.notion.site/Introdu-o-a-Programa-o-Funcional-Plano-de-Estudo-47bd9e130b084794a2497ae4921ec33b?pvs=4) do projeto no notion. O plano de estudo abrange ambas as cadeiras de programação funcional quanto a de programação web.
 
 ## 🛸 Contato Galáctico
 
-Federação Intergaláctica Ecma (FIE) - zoey.spessanha@zeetech.io
+Federação Intergaláctica Ecma (FIE) - [zoey.spessanha@zeetech.io](mailto: zoey.spessanha@zeetech.io) ou [annabell@uenf.br](mailto: annabell@uenf.br)
 
 ---
 
