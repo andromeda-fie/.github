@@ -12,42 +12,35 @@ Imagine um universo onde naves deslizam pelo cosmos, pilotos são as estrelas do
 
 Cada equipe será responsável por desenvolver uma parte do sistema ANDROMEDA, utilizando uma linguagem de programação funcional diferente. Isso mesmo! Do exótico Clojure ao elegante Elixir, passando pelo misterioso JavaScript e queridinho Python, vocês terão a chance de explorar diferentes cantos do universo da programação funcional.
 
-### As Linguagens Estelares
-
-- **Clojure**: A magia do LISP no universo JVM.
-- **Elixir**: Onde a concorrência encontra a elegância.
-- **Javascript**: A flexibilidade incomparável, com foco em imutabilidade e funções de alta ordem.
-- **Python**: Sintaxe simples e facilidade na manipulação de dados.
-
 ### A Jornada
 
 Cada repositório será um serviço único que irá contribuir pro sistema da FIE. Com gerenciamento de pilotos e naves, e até mesmo sistemas complexos de navegação e contratos, vocês enfrentarão desafios espaciais inéditos. Preparem-se para abastecer suas naves, calcular rotas e transações interplanetárias, e muito mais!
 
-#### Serviço de cadastro de novos Pilotos (JavaScript) - "Astrolog"
+#### Serviço de cadastro de novos Pilotos - "Astrolog"
 
 Gerencie o cadastro dos bravos pilotos espaciais. Validação de certificações, registro de informações pessoais e acompanhamento de suas jornadas interplanetárias.
 
 > Descubra mais sobre o serviço em [astrolog](https://github.com/andromeda-fie/astrolog)
 
-#### Serviço de cadastro e mercado de Naves (Python) - "Startrade"
+#### Serviço de cadastro e mercado de Naves - "Startrade"
 
 Um mercado dinâmico para a compra e venda de naves espaciais. Acompanhe as transações, gerencie as listagens e mantenha o registro de todas as naves.
 
 > Descubra mais sobre o serviço em [startrade](https://github.com/andromeda-fie/startrade)
 
-#### Serviço de gerenciamento de Contratos (Elixir) - "Contraktor"
+#### Serviço de gerenciamento de Contratos - "Contraktor"
 
 Responsável por administrar os contratos de transporte espacial. Da publicação à aceitação de contratos, tudo sob o manto da segurança e performance.
 
 > Descubra mais sobre o serviço em [contraktor](https://github.com/andromeda-fie/contraktor)
 
-#### Serviço de Navegação entre planetas (Elixir) - "Pathfinder"
+#### Serviço de Navegação entre planetas - "Pathfinder"
 
 Otimização de rotas e cálculo de trajetórias entre os planetas de Andrômeda.
 
 > Descubra mais sobre o serviço em [pathfinder](https://github.com/andromeda-fie/pathfinder)
 
-#### Serviço de Emissão de relatórios para FIE (Clojure) - "Nebulalytics"
+#### Serviço de Emissão de relatórios para FIE - "Nebulalytics"
 
 Relatórios detalhados e análises profundas sobre insumos transportados, eficiência de pilotos e a saúde financeira da Federação.
 
